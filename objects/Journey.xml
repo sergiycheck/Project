@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfJourney xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Journey>
+    <Date>воскресенье, 18 ноября 2018 г.</Date>
+    <FromCity>a</FromCity>
+    <ToCity>b</ToCity>
+    <Time>2</Time>
+    <Price>3</Price>
+  </Journey>
+</ArrayOfJourney>

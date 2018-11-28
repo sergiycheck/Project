@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FlightRecord.Base&lt;T&gt;" Collapsed="true">
+    <Position X="2" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlightRecord.BigPlane" Collapsed="true">
+    <Position X="2.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>BigPlane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlightRecord.Client" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACACgBAEQAAAAAAEAAAAAAACQBIAAAAAAAA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlightRecord.Journey">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAgIAEAABAAAAgAAAAAAAJAAIEAAAAAQA=</HashCode>
+      <FileName>Journey.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlightRecord.JourneysManager" Collapsed="true">
+    <Position X="2.75" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAEAAAAAAAAAAAAAAAAAAAAAAAAAAABBCAg=</HashCode>
+      <FileName>JourneysManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlightRecord.MediumPlane" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>MediumPlane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlightRecord.Pannier">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAABBCAg=</HashCode>
+      <FileName>Pannier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlightRecord.Plane" Collapsed="true">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQASEACAEAQQAgAAABAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Plane.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FlightRecord.SmallPlane" Collapsed="true">
+    <Position X="8" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>SmallPlane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="FlightRecord.IPlane" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQACEACAEAQQAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPlane.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

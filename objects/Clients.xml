@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <Sits>
+      <string>15</string>
+      <string>16</string>
+    </Sits>
+    <ClientPannier>
+      <journeysInPannier>
+        <Journey>
+          <Date>воскресенье, 18 ноября 2018 г.</Date>
+          <FromCity>a</FromCity>
+          <ToCity>b</ToCity>
+          <Time>2</Time>
+          <Price>3</Price>
+        </Journey>
+      </journeysInPannier>
+    </ClientPannier>
+    <FName>s</FName>
+    <LName>f</LName>
+    <Email>g</Email>
+    <Password>d</Password>
+    <Plane xsi:type="SmallPlane">
+      <MaxSpeed>1200</MaxSpeed>
+      <MaxSitsHeight>4</MaxSitsHeight>
+      <MaxSitsWidth>4</MaxSitsWidth>
+      <Firm>b</Firm>
+      <Name>a</Name>
+      <PlaneImg>C:\Users\Серий\source\repos\FlightRecord\FlightRecord\objects\SmallPlane.jpg</PlaneImg>
+    </Plane>
+  </Client>
+  <Client>
+    <Sits>
+      <string>4</string>
+      <string>8</string>
+    </Sits>
+    <ClientPannier>
+      <journeysInPannier>
+        <Journey>
+          <Date>воскресенье, 18 ноября 2018 г.</Date>
+          <FromCity>a</FromCity>
+          <ToCity>b</ToCity>
+          <Time>2</Time>
+          <Price>3</Price>
+        </Journey>
+      </journeysInPannier>
+    </ClientPannier>
+    <FName>sf</FName>
+    <LName>a</LName>
+    <Email>d</Email>
+    <Password>e</Password>
+    <Plane xsi:type="SmallPlane">
+      <MaxSpeed>1200</MaxSpeed>
+      <MaxSitsHeight>4</MaxSitsHeight>
+      <MaxSitsWidth>4</MaxSitsWidth>
+      <Firm>b</Firm>
+      <Name>a</Name>
+      <PlaneImg>C:\Users\Серий\source\repos\FlightRecord\FlightRecord\objects\SmallPlane.jpg</PlaneImg>
+    </Plane>
+  </Client>
+</ArrayOfClient>

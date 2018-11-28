@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfPlane xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Plane xsi:type="SmallPlane">
+    <MaxSpeed>1200</MaxSpeed>
+    <MaxSitsHeight>4</MaxSitsHeight>
+    <MaxSitsWidth>4</MaxSitsWidth>
+    <Firm>b</Firm>
+    <Name>a</Name>
+    <PlaneImg>C:\Users\Серий\source\repos\FlightRecord\FlightRecord\objects\SmallPlane.jpg</PlaneImg>
+  </Plane>
+</ArrayOfPlane>
